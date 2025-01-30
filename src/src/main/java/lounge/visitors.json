@@ -1,0 +1,7 @@
+[
+  {"name": "Тарас", "isVIP": true},
+  {"name": "Анна", "isVIP": true},
+  {"name": "Женя", "isVIP": false},
+  {"name": "Тимур", "isVIP": true},
+  {"name": "Влад", "isVIP": false}
+]
