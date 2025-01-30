@@ -1,0 +1,10 @@
+[INFO ] 2025-01-30 06:47:21.191 [pool-2-thread-1] HookahLounge - Taras is using a hookah.
+[INFO ] 2025-01-30 06:47:21.191 [pool-2-thread-5] HookahLounge - Andrei is using a hookah.
+[INFO ] 2025-01-30 06:47:21.191 [pool-2-thread-2] Visitor - Artur is waiting outside.
+[INFO ] 2025-01-30 06:47:23.200 [pool-2-thread-1] HookahLounge - Taras has finished using the hookah.
+[INFO ] 2025-01-30 06:47:23.200 [pool-2-thread-5] HookahLounge - Andrei has finished using the hookah.
+[INFO ] 2025-01-30 06:47:23.201 [pool-2-thread-3] HookahLounge - Vlad is using a hookah.
+[INFO ] 2025-01-30 06:47:23.201 [pool-2-thread-4] HookahLounge - Yan is using a hookah.
+[INFO ] 2025-01-30 06:47:25.211 [pool-2-thread-4] HookahLounge - Yan has finished using the hookah.
+[INFO ] 2025-01-30 06:47:25.211 [pool-2-thread-3] HookahLounge - Vlad has finished using the hookah.
+[INFO ] 2025-01-30 06:47:25.218 [main] Main - Simulation finished.

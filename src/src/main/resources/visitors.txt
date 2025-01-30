@@ -1,5 +1,6 @@
-Влад false
-Тарас true
-Артем false
-Сергей true
-Мария false
+2
+Taras
+Artur
+Vlad
+Yan
+Andrei
